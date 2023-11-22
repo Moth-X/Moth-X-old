@@ -16,6 +16,8 @@ layout: my
 | 8 | Potplayer | [中文官网](http://www.potplayercn.com/) <br> [官网](http://potplayer.tv/?lang=zh_CN) | [官网](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) | 视频浏览器 |
 | 9 | VScode | [官网](https://code.visualstudio.com/)| [官网](https://code.visualstudio.com/docs/?dv=win64user) | 代码编辑器 |
 
+<a href="$2" target="_blank">$1</a>
+
 ##  小工具
   
 | 序号 | 名称 | 下载地址 | 备注 |
