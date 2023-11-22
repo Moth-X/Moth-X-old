@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: my
 ---
 
 # FengFeng的导航页
