@@ -5,8 +5,6 @@ layout: my
 # FengFeng的导航页
 
 ##  必装软件
-
-<div class="center">
   
 | 序号 | 名称 | 下载地址 | 一键下载 | 备注 |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
@@ -18,8 +16,6 @@ layout: my
 | 6 | Windows Update Blocker | [3DM](https://soft.3dmgame.com/down/199619.html) | [3DM](https://down.wsyhn.com/23_256733) | 屏蔽Windows更新 |
 | 7 | Honeyview | [官网](https://www.bandisoft.com/honeyview/) | [官网](https://www.bandisoft.com/honeyview/dl.php?web) | 图片浏览器 |
 | 8 | Potplayer | [中文官网](http://www.potplayercn.com/) &ensp; [官网](http://potplayer.tv/?lang=zh_CN) | [官网](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) | 视频浏览器 |
-
-</div>
 
 ##  小工具
   
