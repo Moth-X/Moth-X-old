@@ -6,7 +6,7 @@ layout: my
 
 ##  必装软件
 
-<center>
+<div class="center">
   
 | 序号 | 名称 | 下载地址 | 一键下载 | 备注 |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
@@ -19,15 +19,15 @@ layout: my
 | 7 | Honeyview | [官网](https://www.bandisoft.com/honeyview/) | [官网](https://www.bandisoft.com/honeyview/dl.php?web) | 图片浏览器 |
 | 8 | Potplayer | [中文官网](http://www.potplayercn.com/) &ensp; [官网](http://potplayer.tv/?lang=zh_CN) | [官网](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) | 视频浏览器 |
 
-</center>
+</div>
 
 ##  小工具
 
-<center>
+<div class="center">
   
 | 序号 | 名称 | 下载地址 |
 | :------------: | :------------: | :------------: |
 | 1 | GPA Calculato - 好用的GPA计算器 | [官网](http://blog.zhimind.com/gpa_calculator.html) &ensp; [Github](http://blog.zhimind.com/gpa_calculator.html) |
 | 2 | Editor.md - 开源在线 Markdown 编辑器 | [官网](https://pandao.github.io/editor.md/) &ensp; [Github](https://github.com/pandao/editor.md) |
 
-</center>
+</div>
