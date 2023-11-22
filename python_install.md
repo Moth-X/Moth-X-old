@@ -2,7 +2,7 @@
 layout: my
 ---
 
-# Python安装
+# Python安装流程
 
 ## 方法一：直接安装Python
 
