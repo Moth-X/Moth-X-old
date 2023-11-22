@@ -24,8 +24,8 @@ layout: my
   
 | 序号 | 名称 | 下载地址 | 备注 |
 | :------------: | :------------: | :------------: | :------------: |
-| 1 | GPA Calculato | <a href="http://blog.zhimind.com/gpa_calculator.html" target="_blank">官网</a> &ensp; <a href="http://blog.zhimind.com/gpa_calculator.html" target="_blank">Github</a> | 好用的GPA计算器 |
-| 2 | Editor.md | <a href="https://pandao.github.io/editor.md/" target="_blank">官网</a> &ensp; <a href="https://github.com/pandao/editor.md" target="_blank">Github</a> | 开源在线 Markdown 编辑器 |
+| 1 | GPA Calculato | <a href="http://blog.zhimind.com/gpa_calculator.html" target="_blank">官网</a> <br> <a href="http://blog.zhimind.com/gpa_calculator.html" target="_blank">Github</a> | 好用的GPA计算器 |
+| 2 | Editor.md | <a href="https://pandao.github.io/editor.md/" target="_blank">官网</a> <br> <a href="https://github.com/pandao/editor.md" target="_blank">Github</a> | 开源在线 Markdown 编辑器 |
 | 3 | shields.io | <a href="https://shields.io/" target="_blank">官网</a>| 简洁、一致且清晰的徽章(README) |
 | 4 | iTab 新标签页 | <a href="https://www.itab.link/" target="_blank">官网</a>| 免费无广告的组件式浏览器主页 |
 
