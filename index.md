@@ -21,6 +21,12 @@ layout: my
 | 9 | SumatraPDF | <a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer" target="_blank">官网</a> | 无 | PDF浏览器 |
 | 10 | VScode | <a href="https://code.visualstudio.com/" target="_blank">官网</a>| <a href="https://code.visualstudio.com/docs/?dv=win64user" target="_blank">官网</a> | 代码编辑器 |
 
+##  选装软件
+| 序号 | 名称 | 下载地址 | 一键下载 | 备注 |
+| :------------: | :------------: | :------------: | :------------: | :------------: |
+| 1 | Upscayl | <a href="https://www.upscayl.org/#desktop" target="_blank">官网</a> <br> <a href="https://github.com/upscayl" target="_blank">Github</a> | 无 | Ai图像放大/增强 |
+
+
 ##  小工具
   
 | 序号 | 名称 | 下载地址 | 备注 |
