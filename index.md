@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: my
 ---
 
-test
+<p align='center'><a href="https://github.com/Moth-X/Moth-X.github.io/edit/master/index.md"><img src="https://img.shields.io/badge/%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2-blue"</a></p>
 
 ##  必装软件
   
