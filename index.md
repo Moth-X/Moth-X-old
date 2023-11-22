@@ -10,16 +10,17 @@ layout: my
   
 | 序号 | 名称 | 下载地址 | 一键下载 | 备注 |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| 1 | 7Zip | <a href="https://sparanoid.com/lab/7z/" target="_blank">中文官网</a> <br> <a href="https://7-zip.org/" target="_blank">官网</a> | <a href="https://www.7-zip.org/a/7z2301-x64.exe" target="_blank">X64</a> | 解压工具 |
-| 2 | PDF24 | <a href="https://tools.pdf24.org/zh/" target="_blank">官网</a> <br> <a href="https://soft.3dmgame.com/down/276158.html" target="_blank">3DM</a> | <a href="https://down.wsyhn.com/23_325326" target="_blank">3DM</a> | PDF工具集 |
-| 3 | 沧水的KMS服务 | <a href="https://kms.cangshui.net/" target="_blank">官网</a>  | <a href="https://kms.cangshui.net/kms/KMS-Cangshui.net.bat" target="_blank">本地下载</a> | 激活Windows&Office工具 |
-| 4 | MAS <br> (Microsoft Activation Scripts) | <a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank">Github</a> <br> <a href="https://gitee.com/cherrycube/Microsoft-Activation-Scripts" target="_blank">Gitee</a> | <a href="https://gitee.com/cherrycube/Microsoft-Activation-Scripts/blob/master/MAS/All-In-One-Version/MAS_AIO.cmd" target="_blank">Gitee</a> | 激活Windows&Office工具 |
-| 5 | Office Tool Plus | <a href="https://otp.landian.vip/zh-cn/" target="_blank">官网</a> <br> <a href="https://otp.landian.vip/zh-cn/download.html" target="_blank">下载页面</a> | <a href="https://otp.landian.vip/redirect/download.php?type=runtime&site=sdumirror" target="_blank">包含框架 (ZIP 压缩包) - 山东大学镜像站</a> | Office下载工具 |
-| 6 | Windows Update Blocker | <a href="https://soft.3dmgame.com/down/199619.html" target="_blank">3DM</a> | <a href="https://down.wsyhn.com/23_256733" target="_blank">3DM</a> | 屏蔽Windows更新 |
-| 7 | Honeyview | <a href="https://www.bandisoft.com/honeyview/" target="_blank">官网</a> | <a href="https://www.bandisoft.com/honeyview/dl.php?web" target="_blank">官网</a> | 图片浏览器 |
-| 8 | Potplayer | <a href="http://www.potplayercn.com/" target="_blank">中文官网</a> <br> <a href="http://potplayer.tv/?lang=zh_CN" target="_blank">官网</a> | <a href="https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe" target="_blank">官网</a> | 视频浏览器 |
-| 9 | SumatraPDF | <a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer" target="_blank">官网</a> | 无 | PDF浏览器 |
-| 10 | VScode | <a href="https://code.visualstudio.com/" target="_blank">官网</a>| <a href="https://code.visualstudio.com/docs/?dv=win64user" target="_blank">官网</a> | 代码编辑器 |
+| 1 | 微信 | <a href="https://weixin.qq.com/" target="_blank">官网</a>| <a href="https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe" target="_blank">官网</a> |  |
+| 2 | 7Zip | <a href="https://sparanoid.com/lab/7z/" target="_blank">中文官网</a> <br> <a href="https://7-zip.org/" target="_blank">官网</a> | <a href="https://www.7-zip.org/a/7z2301-x64.exe" target="_blank">X64</a> | 解压工具 |
+| 3 | PDF24 | <a href="https://tools.pdf24.org/zh/" target="_blank">官网</a> <br> <a href="https://soft.3dmgame.com/down/276158.html" target="_blank">3DM</a> | <a href="https://down.wsyhn.com/23_325326" target="_blank">3DM</a> | PDF工具集 |
+| 4 | 沧水的KMS服务 | <a href="https://kms.cangshui.net/" target="_blank">官网</a>  | <a href="https://kms.cangshui.net/kms/KMS-Cangshui.net.bat" target="_blank">本地下载</a> | 激活Windows&Office工具 |
+| 5 | MAS <br> (Microsoft Activation Scripts) | <a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank">Github</a> <br> <a href="https://gitee.com/cherrycube/Microsoft-Activation-Scripts" target="_blank">Gitee</a> | <a href="https://gitee.com/cherrycube/Microsoft-Activation-Scripts/blob/master/MAS/All-In-One-Version/MAS_AIO.cmd" target="_blank">Gitee</a> | 激活Windows&Office工具 |
+| 6 | Office Tool Plus | <a href="https://otp.landian.vip/zh-cn/" target="_blank">官网</a> <br> <a href="https://otp.landian.vip/zh-cn/download.html" target="_blank">下载页面</a> | <a href="https://otp.landian.vip/redirect/download.php?type=runtime&site=sdumirror" target="_blank">包含框架 (ZIP 压缩包) - 山东大学镜像站</a> | Office下载工具 |
+| 7 | Windows Update Blocker | <a href="https://soft.3dmgame.com/down/199619.html" target="_blank">3DM</a> | <a href="https://down.wsyhn.com/23_256733" target="_blank">3DM</a> | 屏蔽Windows更新 |
+| 8 | Honeyview | <a href="https://www.bandisoft.com/honeyview/" target="_blank">官网</a> | <a href="https://www.bandisoft.com/honeyview/dl.php?web" target="_blank">官网</a> | 图片浏览器 |
+| 9 | Potplayer | <a href="http://www.potplayercn.com/" target="_blank">中文官网</a> <br> <a href="http://potplayer.tv/?lang=zh_CN" target="_blank">官网</a> | <a href="https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe" target="_blank">官网</a> | 视频浏览器 |
+| 10 | SumatraPDF | <a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer" target="_blank">官网</a> | 无 | PDF浏览器 |
+| 11 | VScode | <a href="https://code.visualstudio.com/" target="_blank">官网</a>| <a href="https://code.visualstudio.com/docs/?dv=win64user" target="_blank">官网</a> | 代码编辑器 |
 
 ##  选装软件
 
