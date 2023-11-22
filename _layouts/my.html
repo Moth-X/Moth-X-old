@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "zh-CN" }}">
   <head>
-
-  <style>
-        section {
-            width: 100%;
-            height: 100%;
-        }
-    </style>
-    
     <meta charset="UTF-8">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 {% seo %}
@@ -21,11 +13,6 @@
     {% include head-custom.html %}
   </head>
   <body>
-
-    <section>
- 
-    </section>
-    
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
@@ -50,34 +37,4 @@
       </footer>
     </main>
   </body>
-
-  <script>
-    var sec = document.querySelector('section');
-    var bool = true;
-    function a() {
-        var i = document.createElement('i');
-        i.innerHTML = '✦';
-        sec.appendChild(i);
- 
-        var left = Math.floor(Math.random() * sec.offsetWidth - 400);
-        i.style.left = left + 'px';
-        // console.log(left);
-        var top = 0;
-        var slant = left;
-        function c() {
-            i.style.top = top + 'px'; top += 10;
-            i.style.left = slant + 'px'; slant += 10;
-            if (top >= sec.offsetHeight || slant >= sec.offsetWidth) {
-                // top = 0;
-                i.remove();
-            }
-        }
-        // 计时器
-        setInterval(c, 80);
-    }
-    // 计时器
-    setInterval(a, 800);
-</script>
-
-  
 </html>
