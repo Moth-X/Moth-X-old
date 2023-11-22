@@ -18,7 +18,8 @@ layout: my
 | 6 | Windows Update Blocker | <a href="https://soft.3dmgame.com/down/199619.html" target="_blank">3DM</a> | <a href="https://down.wsyhn.com/23_256733" target="_blank">3DM</a> | 屏蔽Windows更新 |
 | 7 | Honeyview | <a href="https://www.bandisoft.com/honeyview/" target="_blank">官网</a> | <a href="https://www.bandisoft.com/honeyview/dl.php?web" target="_blank">官网</a> | 图片浏览器 |
 | 8 | Potplayer | <a href="http://www.potplayercn.com/" target="_blank">中文官网</a> <br> <a href="http://potplayer.tv/?lang=zh_CN" target="_blank">官网</a> | <a href="https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe" target="_blank">官网</a> | 视频浏览器 |
-| 9 | VScode | <a href="https://code.visualstudio.com/" target="_blank">官网</a>| <a href="https://code.visualstudio.com/docs/?dv=win64user" target="_blank">官网</a> | 代码编辑器 |
+| 9 | SumatraPDF | <a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer" target="_blank">官网</a> | 无 | PDF浏览器 |
+| 10 | VScode | <a href="https://code.visualstudio.com/" target="_blank">官网</a>| <a href="https://code.visualstudio.com/docs/?dv=win64user" target="_blank">官网</a> | 代码编辑器 |
 
 ##  小工具
   
