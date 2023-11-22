@@ -26,7 +26,8 @@ layout: my
 
 | 序号 | 名称 | 下载地址 | 一键下载 | 备注 |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| 1 | Upscayl | <a href="https://www.upscayl.org/#desktop" target="_blank">官网</a> <br> <a href="https://github.com/upscayl" target="_blank">Github</a> | 无 | Ai图像放大/增强 |
+| 1 | Steam | <a href="https://store.steampowered.com/about/" target="_blank">官网</a>| <a href="https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe" target="_blank">官网</a> | Ai图像放大/增强 |
+| 2 | Upscayl | <a href="https://www.upscayl.org/#desktop" target="_blank">官网</a> <br> <a href="https://github.com/upscayl" target="_blank">Github</a> | 无 | Ai图像放大/增强 |
 
 
 ##  小工具
