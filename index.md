@@ -6,10 +6,13 @@ layout: default
 
 ##  必装软件
 
-| 序号 | 名称 | 下载地址 |
-| :------------: | :------------: | :------------: |
-| 1 | 7Zip | [中文官网](https://sparanoid.com/lab/7z/) &ensp; [官网](https://7-zip.org/) |
-| 2 | PDF24 | [官网](https://tools.pdf24.org/zh/) &ensp; [3DM](https://soft.3dmgame.com/down/276158.html) |
+| 序号 | 名称 | 下载地址 | 备注 |
+| :------------: | :------------: | :------------: | :------------: |
+| 1 | 7Zip | [中文官网](https://sparanoid.com/lab/7z/) &ensp; [官网](https://7-zip.org/) | 解压工具 |
+| 2 | PDF24 | [官网](https://tools.pdf24.org/zh/) &ensp; [3DM](https://soft.3dmgame.com/down/276158.html) | PDF工具集 |
+| 3 | 沧水的KMS服务 | [官网](https://kms.cangshui.net/)  | 激活Windows&Office工具 |
+| 4 | MAS(Microsoft Activation Scripts) | [Github](https://github.com/massgravel/Microsoft-Activation-Scripts) &ensp; [Gitee](https://gitee.com/cherrycube/Microsoft-Activation-Scripts) | 激活Windows&Office工具 |
+| 5 | Office Tool Plus | [官网](https://otp.landian.vip/zh-cn/) &ensp; [下载页面](https://otp.landian.vip/zh-cn/download.html) | Office下载工具 |
 
 
 ##  小工具
