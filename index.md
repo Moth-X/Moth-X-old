@@ -13,6 +13,7 @@ layout: default
 | 3 | 沧水的KMS服务 | [官网](https://kms.cangshui.net/)  | 激活Windows&Office工具 |
 | 4 | MAS(Microsoft Activation Scripts) | [Github](https://github.com/massgravel/Microsoft-Activation-Scripts) &ensp; [Gitee](https://gitee.com/cherrycube/Microsoft-Activation-Scripts) | 激活Windows&Office工具 |
 | 5 | Office Tool Plus | [官网](https://otp.landian.vip/zh-cn/) &ensp; [下载页面](https://otp.landian.vip/zh-cn/download.html) | Office下载工具 |
+| 6 | Windows Update Blocker | [3DM](https://soft.3dmgame.com/down/199619.html) | 屏蔽Windows更新 |
 
 
 ##  小工具
