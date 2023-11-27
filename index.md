@@ -42,3 +42,13 @@ layout: my
 | 4 | iTab 新标签页 | <a href="https://www.itab.link/" target="_blank">官网</a>| 免费无广告的组件式浏览器主页 
 | 5 | exam4.us | <a href="https://exam4.us/" target="_blank">官网</a> | 艾斯浩宾背诵计划生成 |
 | 6 | Gridzzly | <a href="http://gridzzly.com/" target="_blank">官网</a> | Make your own grid paper |
+
+##  装机必备
+
+| 序号 | 名称 | 下载地址 | 备注 |
+| :------------: | :------------: | :------------: | :------------: |
+| 1 | MSDN,我告诉你 | <a href="https://msdn.itellyou.cn/" target="_blank">官网</a> | 系统镜像下载 |
+| 2 | MSDN新站 | <a href="https://next.itellyou.cn/Original/Index" target="_blank">官网</a> | 系统镜像下载（包括Win11） |
+| 3 | Ventoy | <a href="https://www.ventoy.net/cn/" target="_blank">官网</a>| 新一代多系统启动U盘解决方案 |
+| 4 | WEPE | <a href="https://www.wepe.com.cn/" target="_blank">官网</a>| 微PE工具箱 - 超好用的装机维护工具 |
+
