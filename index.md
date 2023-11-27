@@ -10,7 +10,7 @@ layout: my
   
 | 序号 | 名称 | 下载地址 | 一键下载 | 备注 |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| 1 | 微信 | <a href="https://weixin.qq.com/" target="_blank">官网</a>| <a href="https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe" target="_blank">官网</a> |  |
+| 1 | 微信 | <a href="https://weixin.qq.com/" target="_blank">官网</a>| <a href="https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe" target="_blank">官网</a> | 无 |
 | 2 | 7Zip | <a href="https://sparanoid.com/lab/7z/" target="_blank">中文官网</a> <br> <a href="https://7-zip.org/" target="_blank">官网</a> | <a href="https://www.7-zip.org/a/7z2301-x64.exe" target="_blank">X64</a> | 解压工具 |
 | 3 | PDF24 | <a href="https://tools.pdf24.org/zh/" target="_blank">官网</a> <br> <a href="https://soft.3dmgame.com/down/276158.html" target="_blank">3DM</a> | <a href="https://down.wsyhn.com/23_325326" target="_blank">3DM</a> | PDF工具集 |
 | 4 | 沧水的KMS服务 | <a href="https://kms.cangshui.net/" target="_blank">官网</a>  | <a href="https://kms.cangshui.net/kms/KMS-Cangshui.net.bat" target="_blank">本地下载</a> | 激活Windows&Office工具 |
