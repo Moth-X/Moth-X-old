@@ -30,6 +30,7 @@ layout: my
 | 1 | Steam | <a href="https://store.steampowered.com/about/" target="_blank">官网</a>| <a href="https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe" target="_blank">官网</a> | 欢迎来到 Steam |
 | 2 | Upscayl | <a href="https://www.upscayl.org/#desktop" target="_blank">官网</a> <br> <a href="https://github.com/upscayl" target="_blank">Github</a> | 无 | Ai图像放大/增强 |
 | 3 | TinyTask | <a href="https://www.tinytask.net/" target="_blank">官网</a>| 无 | Simple + Fast + Free: Automation for Everyone |
+| 4 | XMind | <a href="https://xmind.cn/" target="_blank">官网</a>| 无 | 年轻时诋毁思维导图，长大后理解思维导图，成熟后使用思维导图，复活赛打赢思维导图，重生之<a href="https://www.cmdpe.com/post/340.html" target="_blank">我是思维导图</a> |
 
 
 ##  小工具
