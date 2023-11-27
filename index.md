@@ -21,6 +21,7 @@ layout: my
 | 9 | Potplayer | <a href="http://www.potplayercn.com/" target="_blank">中文官网</a> <br> <a href="http://potplayer.tv/?lang=zh_CN" target="_blank">官网</a> | <a href="https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe" target="_blank">官网</a> | 视频浏览器 |
 | 10 | SumatraPDF | <a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer" target="_blank">官网</a> | 无 | PDF浏览器 |
 | 11 | VScode | <a href="https://code.visualstudio.com/" target="_blank">官网</a>| <a href="https://code.visualstudio.com/docs/?dv=win64user" target="_blank">官网</a> | 代码编辑器 |
+| 12 | File Converter | <a href="https://file-converter.org/" target="_blank">官网</a> <br> <a href="https://github.com/Tichau/FileConverter" target="_blank">Github</a> | <a href="https://file-converter.org/download.html" target="_blank">官网</a> | 格式转换 |
 
 ##  选装软件
 
@@ -28,6 +29,7 @@ layout: my
 | :------------: | :------------: | :------------: | :------------: | :------------: |
 | 1 | Steam | <a href="https://store.steampowered.com/about/" target="_blank">官网</a>| <a href="https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe" target="_blank">官网</a> | 欢迎来到 Steam |
 | 2 | Upscayl | <a href="https://www.upscayl.org/#desktop" target="_blank">官网</a> <br> <a href="https://github.com/upscayl" target="_blank">Github</a> | 无 | Ai图像放大/增强 |
+| 3 | TinyTask | <a href="https://www.tinytask.net/" target="_blank">官网</a>| 无 | Simple + Fast + Free: Automation for Everyone |
 
 
 ##  小工具
